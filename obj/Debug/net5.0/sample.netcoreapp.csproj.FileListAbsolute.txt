@@ -37,3 +37,8 @@
 /Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/obj/Debug/net5.0/sample.netcoreapp.pdb
 /Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/obj/Debug/net5.0/sample.netcoreapp.genruntimeconfig.cache
 /Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/obj/Debug/net5.0/sample.netcoreapp.csproj.CopyComplete
+/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/bin/Debug/net5.0/publish/web.config
+/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/bin/Debug/net5.0/publish/appsettings.Development.json
+/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/bin/Debug/net5.0/publish/appsettings.json
+/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/bin/Debug/net5.0/publish/sample.netcoreapp.deps.json
+/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/bin/Debug/net5.0/publish/sample.netcoreapp.runtimeconfig.json
