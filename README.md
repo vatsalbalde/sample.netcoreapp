@@ -1,2 +1,2 @@
 # sample.netcoreapp
-sample.netcoreapp.
+sample.netcoreapp..
