@@ -18,7 +18,7 @@
       "projectPath": "/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/sample.netcoreapp/sample.netcoreapp/sample.netcoreapp/sample.netcoreapp.csproj",
       "packagesPath": "/Users/vatsal.balde/.nuget/packages/",
       "outputPath": "/Users/vatsal.balde/Downloads/test_projects/sample.netcoreapp/sample.netcoreapp/sample.netcoreapp/sample.netcoreapp/obj/",
-      "projectStyle": "PackageReference",
+      "projectStyle": "PackageReference", 
       "configFilePaths": [
         "/Users/vatsal.balde/.nuget/NuGet/NuGet.Config"
       ],
